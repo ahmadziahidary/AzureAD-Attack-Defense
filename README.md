@@ -1,4 +1,4 @@
-# Microsoft Entra ID - Attack and Defense Playbook
+full disclosure # Microsoft Entra ID - Attack and Defense Playbook
 
 This publication is a collection of various common attack scenarios on Microsoft Entra and how they can be mitigated or detected.
 All of the included scenarios, insights and comments are based on experiences from the contributors during their attack simulations, hands-on or real-world scenarios.
